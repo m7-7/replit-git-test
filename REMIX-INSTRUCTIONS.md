@@ -22,7 +22,7 @@
 ## Current Repository
 - **GitHub:** https://github.com/m7-7/replit-git-test
 - **Branch naming:** `remix-<username>`
-- **Main branch:** `main`
+- **Main branch:** `master`
 
 ## Development
 - Run: `npm run dev`

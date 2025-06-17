@@ -31,7 +31,7 @@ git push origin remix-<your-username>
 ```
 
 ### 5. Create Pull Request
-Go to the [GitHub repository](https://github.com/m7-7/replit-git-test) and create a Pull Request from your branch to the main branch.
+Go to the [GitHub repository](https://github.com/m7-7/replit-git-test) and create a Pull Request from your branch to the master branch.
 
 ## Manual Workflow (Alternative)
 
